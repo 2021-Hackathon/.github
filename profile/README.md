@@ -1,4 +1,4 @@
-# 🏫 Face Food
+# 👤 Face Food
 Face Food는 인공지능 기반 감정 인식 음식 추천 플랫폼입니다.
 
 ## 💬 Summary
