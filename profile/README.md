@@ -23,7 +23,7 @@ Tensorflow Lite를 이용해 사용자의 얼굴 사진을 분석해 사용자�
 ## 📷 Screenshot
 <p align="left">
   <img src="https://user-images.githubusercontent.com/62925473/176621030-16b10b9d-5c35-4a44-9fd8-1e0f6d92af68.gif" width="300" height="600"/>&emsp;
-  <img src="" width="210" height="400"/>
+  <img src="../2.gif" width="300" height="600"/>
 <p align="left">
   <img src="https://user-images.githubusercontent.com/62925473/176621350-cf617f41-be2c-43dd-b04b-0ae9a681a81e.gif" width="300" height="600"/>&emsp;
   <img src="https://user-images.githubusercontent.com/62925473/176621428-a4061e26-b85e-49d6-8140-48c72cdd0274.gif" width="300" height="600"/>&emsp;
